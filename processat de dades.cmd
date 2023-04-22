@@ -1,0 +1,1 @@
+python -i Stroop_processat.py
