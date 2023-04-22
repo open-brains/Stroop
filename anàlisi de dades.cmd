@@ -1,1 +1,0 @@
-python -i Stroop_analisis.py 
